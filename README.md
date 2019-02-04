@@ -1,3 +1,3 @@
 # Minimalist Date Picker
 A beautiful, minimalist date picker built from scratch using HTML/CSS/JavaScript.
-[Preview](https://imgur.com/a/ZJRudZC)
+![alt text](https://raw.githubusercontent.com/diegobalvin/datepicker/master/datepicker.png)
